@@ -1,4 +1,4 @@
-02_QC_Filter_Normalise/
+QC_Filter_Normalise/
 ├── qc_filter_normalise.R           # (The annotated R script)
 ├── example_myDGEList.RData         # (Optional saved object)
 ├── example_expression_counts.tsv   # (Placeholder if needed)
