@@ -1,0 +1,5 @@
+RImport_Tximport_01/
+├── import_tx_example.R       # (This script file)
+├── example_studydesign.txt   # (Placeholder study design file)
+├── example_abundance.tsv     # (Example abundance file for dummy data)
+└── README.md                 # (Explanation of the folder's purpose)
