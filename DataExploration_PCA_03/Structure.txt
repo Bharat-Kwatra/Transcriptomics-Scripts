@@ -1,0 +1,7 @@
+DataExploration_PCA/
+├── 03_explore_pca.R                 # Main annotated script
+├── example_log2cpm_normalized.tsv  # Example input (optional mock data)
+├── example_targets.tsv             # Mock study design
+├── pca_loadings_plot.pdf           # Saved PCA small multiples
+├── pca_clusters.pdf                # Saved PCA plot with ellipse
+├── README.md                       # Theory + How to use this script
